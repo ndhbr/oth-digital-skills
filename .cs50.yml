@@ -5,6 +5,7 @@ lab50:
     - terminal
   files:
     - !include mario.py
+    - !include README.md
 
 submit50:
   files: &files
